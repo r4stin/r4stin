@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Rastin a Master's student specializing in AI and Robotics @UNIPD.<br><br>🎓 Currently pursuing my Master's degree to delve deeper into the fascinating world of AI.<br><br>🤖 Passionate about developing intelligent systems and robotics applications that can make a positive impact on our world.<br><br>🌱 Always eager to learn and collaborate on new projects. If you're working on something interesting, feel free to reach out!<br><br>📫 You can reach me via email at rastin.ak013@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/moafi).<br>
+👋 Hi there! I'm Rastin a Master's student specializing in AI and Robotics @UNIPD.<br><br>🎓 Currently pursuing my Master's degree to delve deeper into the fascinating world of AI.<br><br>🤖 Passionate about developing intelligent systems and robotics applications that can make a positive impact on our world.<br><br>🌱 Always eager to learn and collaborate on new projects. If you're working on something interesting, feel free to reach out!<br><br>📫 You can reach me via [Email](rastin.ak013@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/moafi).<br>
 
 
 ## 🌐 Socials:
