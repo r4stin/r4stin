@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hi there! I'm Rastin, an AI researcher and engineer with a Master's degree in AI and Robotics from UNIPD.
+👋 Hi, I’m Mohammadhossein Akbari Moafi (Rastin), an AI researcher and engineer with a Master's in AI and Robotics from UNIPD.
 
 🤖 I'm passionate about building intelligent systems that create real-world impact and push the boundaries of what machines can do.
 
